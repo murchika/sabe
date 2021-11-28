@@ -2,7 +2,7 @@
 
 ##### How to clone this repository:
 ``
-git clone https://github.com/saschageyer/sa-benchmark.git
+git clone https://github.com/murchika/sabe.git
 ``
 
 ##### How to create the virtual environment and install dependencies:
